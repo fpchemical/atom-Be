@@ -1,0 +1,30 @@
+{
+  "name": "atom-be",
+  "version": "1.0.0",
+  "description": "Propriedades do átomo de Berílio",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suissa/atom-Be.git"
+  },
+  "keywords": [
+    "atom",
+    "átomo",
+    "be",
+    "Berílio",
+    "química",
+    "chemistry",
+    "webschool"
+  ],
+  "author": "Suissa",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/suissa/atom-Be/issues"
+  },
+  "homepage": "https://github.com/suissa/atom-Be#readme"
+}
